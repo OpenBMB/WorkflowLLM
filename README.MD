@@ -196,6 +196,16 @@ sh ./scripts/infer.sh {LOAD_PATH}
 ## Citation
 Feel free to us if you like WorkflowLLM.
 
+```
+@article{fan2024workflowllm,
+  title={WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models},
+  author={Fan, Shengda and Cong, Xin and Fu, Yuepeng and Zhang, Zhong and Zhang, Shuyan and Liu, Yuanwei and Wu, Yesai and Lin, Yankai and Liu, Zhiyuan and Sun, Maosong},
+  journal={arXiv preprint arXiv:2411.05451},
+  year={2024}
+}
+```
+
+
 
 ## License
 
