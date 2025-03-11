@@ -48,7 +48,7 @@ In all, WorkflowLLM offers a powerful tool for automating sophisticated workflow
 
 [//]: # ()
 [//]: # ()
-[//]: # (Please download our dataset using the following links: [Huggingface](https://huggingface.co/datasets/openbmb/WorkflowLLM) or [Google Drive]&#40;https://drive.google.com/file/d/1ybvkAL6vU2IIMK0X_N1nsWFmcc7KWs_r/view?usp=sharing&#41; and unzip it into `./data/`.)
+[//]: # (Please download our dataset using the following links: [Huggingface](https://huggingface.co/datasets/openbmb/WorkflowLLM) or [Google Drive]()https://drive.google.com/file/d/1ybvkAL6vU2IIMK0X_N1nsWFmcc7KWs_r/view?usp=sharing&#41; and unzip it into `./data/`.)
 
 [//]: # ()
 [//]: # (- **Seed Data**: [./data/seed_data.json]&#40;./data/seed_data.json&#41;)
@@ -65,7 +65,7 @@ This dataset consists of two primary components: (1) transcribed real-world data
 
 ### Dataset Access
 
-You can download the complete dataset from the following link: [Google Drive](https://drive.google.com/file/d/1ybvkAL6vU2IIMK0X_N1nsWFmcc7KWs_r/view?usp=sharing). Once downloaded, please unzip the contents into the directory `./data/`.
+You can download the complete dataset from the following link: [Huggingface](https://huggingface.co/datasets/openbmb/WorkflowLLM) or [Google Drive](https://drive.google.com/file/d/1ybvkAL6vU2IIMK0X_N1nsWFmcc7KWs_r/view?usp=sharing). Once downloaded, please unzip the contents into the directory `./data/`.
 We also included 50 samples in the `./data/data_samples.json` file.
 
 The folder structure under `./data/` is as follows:
